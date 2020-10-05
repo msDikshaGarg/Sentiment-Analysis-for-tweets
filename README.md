@@ -88,12 +88,12 @@ Using Sigmoid as activation function, Test accuracy: 0.639328657315
 Using Tanh as activation function, Test accuracy: 0.672895791583  
 Hence Rectifier function turns out to be the best suited for the chosen test dataset.
 So the CNN using Rectifier activation function is chosen to analyse the two scraped datasets;
-Demonetisation:
+##### Demonetisation:
  * Total: 46.9752026757 % Positive Tweets.
  * Total: 24.2968368231 % Neutral Tweets.
  * Total: 28.7279605012 % Negative Tweets.
  * Total: 14940.0 Tweets. 
-Donald Trump Tweets:
+##### Donald Trump Tweets:
  * Total: 52.5762796027 % Positive Tweets.
  * Total: 19.2660582715 % Neutral Tweets.
  * Total: 28.1576621258 % Negative Tweets.
