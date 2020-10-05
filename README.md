@@ -82,10 +82,10 @@ ExpLin and Sigmoid.
 * Train the model.
 
 ### Results: 
-* Using ExpLin as activation function, Test accuracy: 0.693687374749
-* Using Rectifier as activation function, Test accuracy: 0.744729451764
-* Using Sigmoid as activation function, Test accuracy: 0.639328657315
-* Using Tanh as activation function, Test accuracy: 0.672895791583
+Using ExpLin as activation function, Test accuracy: 0.693687374749  
+Using Rectifier as activation function, Test accuracy: 0.744729451764  
+Using Sigmoid as activation function, Test accuracy: 0.639328657315  
+Using Tanh as activation function, Test accuracy: 0.672895791583  
 Hence Rectifier function turns out to be the best suited for the chosen test dataset.
 So the CNN using Rectifier activation function is chosen to analyse the two scraped datasets;
 Demonetisation:
