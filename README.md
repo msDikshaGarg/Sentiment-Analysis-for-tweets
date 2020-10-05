@@ -67,7 +67,7 @@ Results for Lexicon and rule-based Model:
  * Total: 27.1605827258 % Negative Tweets.
  * Total: 3600.0 Tweets.
 
-## 1. Convolutional Neural Networks:
+## 2. Convolutional Neural Networks:
 
 Particularly Convolutional Neural Networks , CNNs are basically just several layers of convolutions with nonlinear activation
 functions like ReLU or tanh applied to the results. In a traditional feedforward neural network we connect each input neuron to each output
