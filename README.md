@@ -3,7 +3,8 @@ Sentiment Analysis of tweets using lexicon bag of words model and Convolutional 
 
 Glove file used: https://www.kaggle.com/watts2/glove6b50dtxt
 
-Requirements:
+### Requirements:
+<br>
 
 • sknn (Scikit Neural Networks)
 • Global Vector Encoder (GloVe)/ Word to Vector Encoder (Word2Vec)
@@ -11,11 +12,11 @@ Requirements:
 • Numpy
 • Tweepy (For Twitter data scraping)
 
-Usage:
+### Usage:
 Put in the glove and SSTb folders in each of the four model folders, then run python sentiment_xx.py
 to run the default training session save the model to "sentiment_model.pkl".
 
-Training set:
+### Training set:
 11976 phrases from the Stanford Sentiment Treebank dataset or "SSTb". Every phrase is encoded into a representative matrix with dense 50 dimensional GloVe embeddings. 
 The module sets a fixed limit of  15 words per sentence to ensure that the embedding matrix of sentences have a uniform dimension of 15X50.
 
