@@ -5,11 +5,11 @@ Glove file used: https://www.kaggle.com/watts2/glove6b50dtxt
 
 ### Requirements:
 <br>
--sknn (Scikit Neural Networks)
-- Global Vector Encoder (GloVe)/ Word to Vector Encoder (Word2Vec)
-- Scipy (And its dependency packages)
-- Numpy
-- Tweepy (For Twitter data scraping)
+Markup: -sknn (Scikit Neural Networks)
+        - Global Vector Encoder (GloVe)/ Word to Vector Encoder (Word2Vec)
+        - Scipy (And its dependency packages)
+        - Numpy
+        - Tweepy (For Twitter data scraping)
 
 ### Usage:
 Put in the glove and SSTb folders in each of the four model folders, then run python sentiment_xx.py
