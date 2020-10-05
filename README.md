@@ -5,7 +5,6 @@ Glove file used: https://www.kaggle.com/watts2/glove6b50dtxt
 
 ### Requirements:
 <br>
-
 • sknn (Scikit Neural Networks)
 • Global Vector Encoder (GloVe)/ Word to Vector Encoder (Word2Vec)
 • Scipy (And its dependency packages)
