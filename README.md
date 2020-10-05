@@ -53,16 +53,15 @@ intensity positive sentiment than the same sentence without “Least”, “Bett
 * Make a dictionary of the scores for every sentence by adding the scores to achive a compound score.
 
 ### Results: 
-Data which was to be analysed was scraped from twitter, particularly to test sentimental orientation on;
-* The demonetisation steps taken by the Indian Government
-* General Tweets by the POTUS Donald Trump
+Data which was to be analysed was scraped from twitter, particularly to test sentimental orientation on; The demonetisation steps taken by the Indian Government
+and General Tweets by the POTUS Donald Trump
 Results for Lexicon and rule-based Model:
-Demonetisation:
+##### Demonetisation:
  * Total: 44.0227576975 % Positive Tweets.
  * Total: 29.6854082999 % Neutral Tweets.
  * Total: 26.2918340027 % Negative Tweets.
  * Total: 14940.0 Tweets.
-Donald Trump Tweets:
+##### Donald Trump Tweets:
  * Total: 56.5576621607 % Positive Tweets.
  * Total: 16.2817551135 % Neutral Tweets.
  * Total: 27.1605827258 % Negative Tweets.
